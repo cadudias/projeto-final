@@ -1,0 +1,38 @@
+.navbar{
+	margin-bottom: 0;
+	border-color: transparent;
+}
+
+.navbar-default{
+	background-color: #222;
+}
+
+.navbar-default .navbar-nav>li>a{
+	color: white;
+	font-size: 17px;
+	font-family: 'Montserrat', sans-serif;	
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+	color: #fed136;
+}
+
+.navbar-default .navbar-nav>.active>a{
+	color: #fed136;
+	background-color: transparent;
+}
+
+.navbar-default .navbar-nav>.active>a:hover{
+	color: #fed136;
+	background-color: transparent;
+}
+
+.navbar-default .navbar-brand{
+	color: #fed136;
+	font-size: 20px;
+	font-family: 'Montserrat', sans-serif;	
+}
+
+.navbar-default .navbar-brand:hover{
+	color: #fed136;
+}
